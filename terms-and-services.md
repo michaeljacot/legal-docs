@@ -10,7 +10,7 @@ You must be at least 13 years old or the minimum legal age in your country to us
 
 4. User Obligations
 Account Responsibility: You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account.
-Compliance: You agree to comply with all applicable laws, regulations, and TikTok's terms of service when using the App.
+Compliance: You agree to comply with all applicable laws, regulations, and the Cloud Developers's terms of service when using the App.
 Content Rights: You warrant that you have the necessary rights and permissions for any content you authorize the App to post on your behalf.
 5. Intellectual Property Rights
 All materials within the App, including but not limited to text, images, software, and code, are owned by Creative Director and are protected by intellectual property laws. Unauthorized use of any proprietary content is strictly prohibited.
