@@ -3,7 +3,7 @@ Creative Director Terms of Service
 By accessing or using Creative Director ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to all the terms and conditions, please do not use the App.
 
 2. Description of Service
-Creative Director is an application developed using the TikTok Developer Platform that posts entertaining videos on behalf of multiple accounts.
+Creative Director is an application developed using Cloud Developer Platform that posts entertaining videos on behalf of multiple accounts.
 
 3. Eligibility
 You must be at least 13 years old or the minimum legal age in your country to use this App.
